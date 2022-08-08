@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Matanza00
 - 👀 I’m interested in UI/UX , Security & Networking  
-- 🌱 I’m currently learning Adobe XD & MongoDB
-- 💞️ I’m looking to collaborate on Web Application , Mobile Development
+- 🌱 I’m currently working on React, ReactNative, Firebase & MongoDB
+- 💞️ I’m looking to collaborate on Desktop , Web Application & Mobile Development
 - 📫 How to reach me , Whatsapp : +92-303-2743621
 
 <!---
