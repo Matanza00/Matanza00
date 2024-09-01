@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matanza00
 - 👀 I’m interested in UI/UX , FullStackDeveloper
-- 🌱 I’m currently working on React, Shopify , Framer, WebFlow ,WordPress
+- 🌱 I’m currently working on MERN STACK building Management Softwares and Web App
 - 💞️ I’m looking to collaborate on Web Application & Ecommerce Stores
 - 📫 How to reach me , Whatsapp : +92-303-2743621
 
