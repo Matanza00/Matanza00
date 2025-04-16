@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h4 align="left">🚀 Frontend Libraries & Frameworks</h4>
+### 🚀 Frontend Libraries & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
@@ -29,32 +29,33 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css)
 ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar)
 
-<h4 align="left">⚙️ Backend Frameworks / Platforms</h4>
+### ⚙️ Backend Frameworks / Platforms
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails)
 
-<h4 align="left">🧱 Databases</h4>
+### 🧱 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server)
 
-<h4 align="left">☁️ Cloud & DevOps</h4>
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=for-the-badge&logo=aws-amplify)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
 
-<h4 align="left">📊 Data Visualization Libraries</h4>
+### 📊 Data Visualization Libraries
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs)
 ![CanvasJS](https://img.shields.io/badge/CanvasJS-FF7133?style=for-the-badge)
 
-<h4 align="left">🛠️ Tooling & Version Control</h4>
+### 🛠️ Tooling & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matanza00&show_icons=true&locale=en&layout=compact" alt="matanza00" /></p>
