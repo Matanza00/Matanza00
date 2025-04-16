@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matanza00&label=Profile%20views&color=0e75b6&style=flat" alt="matanza00" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matanza00" alt="matanza00" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=matanza00" alt="matanza00" /></a> </p>
 
 - 🔭 I’m currently working on [GaragePal](https://garagepal.ca)
 
