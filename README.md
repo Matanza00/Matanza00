@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **usmannadeem3621@gmail.com** or **usmannadeem@nxcsol.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/usman-nadeem-b81275261/](https://www.linkedin.com/in/usman-nadeem-b81275261/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/usmannadeem-dev/](https://www.linkedin.com/in/usmannadeem-dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
