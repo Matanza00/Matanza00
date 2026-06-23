@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark&rank=S,AAA"><img src="https://github-profile-trophy.vercel.app/?username=matanza00" alt="matanza00" /></a> </p>
 
-- 🔭 I’m currently working on [GaragePal](https://garagepal.ca)
+- 🔭 I’m currently working at [LDS](https://legitdesign.studio)
 
 - 👨‍💻 All of my projects are available at [github.com/Matanza00](github.com/Matanza00)
 
@@ -28,13 +28,11 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css)
-![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar)
 
 ### ⚙️ Backend Frameworks / Platforms
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails)
 
 ### 🧱 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
